@@ -1,0 +1,32 @@
+# Python Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data & Database backups (CRITICAL for security/privacy)
+data/raw/
+data/processed/
+data/interim/
+data/warehouse/
+database/backups/
+database/seed_data/
+*.psv
+*.csv
+*.zip
+*.db
+*.sqlite
+
+# IDEs & System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Model Checkpoints
+models/artifacts/*
+models/baseline/*
+models/final/*
+models/tuned/*
+*.pt
+*.pkl
