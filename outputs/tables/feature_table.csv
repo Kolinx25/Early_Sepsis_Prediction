@@ -1,0 +1,11 @@
+patient_id,iculos,hr,o2sat,temp,sbp,map,dbp,resp,etco2,baseexcess,hco3,fio2,ph,paco2,sao2,ast,bun,alkalinephos,calcium,chloride,creatinine,bilirubin_direct,glucose,lactate,magnesium,phosphate,potassium,bilirubin_total,troponini,hct,hgb,ptt,wbc,fibrinogen,platelets,hr_missing,o2sat_missing,temp_missing,sbp_missing,map_missing,dbp_missing,resp_missing,etco2_missing,baseexcess_missing,hco3_missing,fio2_missing,ph_missing,paco2_missing,sao2_missing,ast_missing,bun_missing,alkalinephos_missing,calcium_missing,chloride_missing,creatinine_missing,bilirubin_direct_missing,glucose_missing,lactate_missing,magnesium_missing,phosphate_missing,potassium_missing,bilirubin_total_missing,troponini_missing,hct_missing,hgb_missing,ptt_missing,wbc_missing,fibrinogen_missing,platelets_missing,sepsis_label
+1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+1,2,97.0,95.0,,98.0,75.33,,19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+1,3,89.0,99.0,,122.0,86.0,,22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+1,4,90.0,95.0,,,,,30.0,,24.0,,,7.36,100.0,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+1,5,103.0,88.5,,122.0,91.33,,24.5,,,,0.28,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+1,6,110.0,91.0,,,,,22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+1,7,108.0,92.0,36.11,123.0,77.0,,29.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+1,8,106.0,90.5,,93.0,76.33,,29.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+1,9,104.0,95.0,,133.0,88.33,,26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+1,10,102.0,91.0,,134.0,87.33,,30.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0

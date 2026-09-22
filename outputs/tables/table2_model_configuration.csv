@@ -1,0 +1,19 @@
+Parameter,Value
+Architecture,Temporal Convolutional Network
+Input sequence,12 hours × 69 features
+Clinical features,34
+Missingness features,34
+Temporal feature,iculos
+Prediction horizon,12 hours
+Temporal blocks,3
+Channels,"64, 64, 128"
+Kernel size,3
+Dilations,"1, 2, 4"
+Dropout,0.2
+Classifier,Linear layer
+Loss function,BCEWithLogitsLoss
+Optimizer,AdamW
+Learning rate,0.001
+Batch size,128
+Epochs,10
+Random seed,42

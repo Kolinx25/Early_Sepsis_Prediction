@@ -1,0 +1,14 @@
+Characteristic,Value
+Total trajectory windows,675346.0
+Positive Y12 windows,16532.0
+Negative Y12 windows,658814.0
+Positive prevalence,0.0245
+test patients,4600.0
+test windows,100455.0
+test positive windows,2245.0
+train patients,21462.0
+train windows,472914.0
+train positive windows,12115.0
+validation patients,4599.0
+validation windows,101977.0
+validation positive windows,2172.0
